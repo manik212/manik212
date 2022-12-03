@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manikyala Rao Cherukuri
+- 👋 Hi, I’m Manikyala
 - 👀 I’m interested in Data Engineer/Data Analyst/ Business Analyst/ Data Scientist/ Machine learning Engineer roles.
 - 🌱 I’m currently learning Data Engineering & Machine Learning Concepts.
 - 💞️ I’m looking to collaborate with Data World community.
